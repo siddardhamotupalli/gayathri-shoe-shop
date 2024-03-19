@@ -1,0 +1,56 @@
+.body{
+    background-color: aqua;
+
+
+    
+}
+.headline{
+    background-color: rgb(156, 126, 42);
+}
+
+.product{
+    background-color: antiquewhite;
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows:1fr 1fr 1fr;
+    column-gap: 20px;
+}
+.color{
+background-color: black;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    border: 2px solid black;   
+    
+}
+
+.color-green{
+    background-color: green;
+    height: 50px;
+    width: 50px;
+    
+    
+}
+
+.color-white{
+    background-color: white;
+}
+
+.color-pink{
+    background-color: pink;
+}
+.color-blue{
+    background-color: blue;
+}
+
+.cart{
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+    background-color: orange;
+    color: white;
+    font-size: 22px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
