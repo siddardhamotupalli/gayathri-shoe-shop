@@ -5,11 +5,12 @@
     
 }
 .headline{
-    background-color: rgb(156, 126, 42);
+    background-color: blue;
 }
 
 .product{
     background-color: antiquewhite;
+    padding- right:200px;
     
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
