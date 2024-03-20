@@ -21,6 +21,13 @@
 .price{
    border:2px solid black;
 }
+
+
+.colors{
+    
+   border:2px solid black;
+
+}
 .color{
 background-color: black;
     height: 50px;
@@ -47,6 +54,12 @@ background-color: black;
 }
 .color-blue{
     background-color: blue;
+}
+
+.details{
+   
+    border:2px solid black;
+
 }
 
 .cart{
