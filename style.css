@@ -12,8 +12,8 @@
     background-color: antiquewhite;
     
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows:1fr 1fr 1fr;
+    grid-template-columns: 200px 1fr 1fr;
+    grid-template-rows:200px 1fr 1fr;
     column-gap: 20px;
 }
 .color{
