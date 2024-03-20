@@ -11,7 +11,7 @@
 .product{
     background-color: antiquewhite;
     padding- right:200px;
-    
+    border:2px solid black;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows:;
@@ -58,4 +58,6 @@ background-color: black;
     font-size: 22px;
     text-transform: uppercase;
     cursor: pointer;
+    
+    border:2px solid black;
 }
